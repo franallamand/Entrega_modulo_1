@@ -6,6 +6,7 @@
 - Mateo Notti:
 
 - Nombre y Apellido | Dirección de mail | Número de teléfono |
+- |-----------------|-------------------|--------------------|
 - Facundo Dip | facu.g.dip@gmail.com | 2613729384 |
 - Francisco Allamand | franallamand05@gmail.com | 2614688567 |
 - Pedro Elizalde | pedroelizaldegrandin05@gmail.com | 2617078638 |
