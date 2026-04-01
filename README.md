@@ -1,6 +1,6 @@
 # Entrega_modulo_1
 ## Grupo Los Pookies
-- Facundo Dip: https://github.com/facudip86/Facundo-Dip-Repository
+- Facundo Dip: [https://github.com/facudip86/Facundo-Dip-Repository](https://github.com/facudip86/Entrega_Modulo_1)
 - Francisco Allamand: https://github.com/franallamand/francisco-allamand-modulo-1
 - Pedro Elizalde: https://github.com/pedroelizalde05/modulo1
 - Mateo Notti: https://github.com/nottimateo-max/Modulo_1.git
