@@ -1,4 +1,6 @@
 # Entrega_modulo_1
+<img width="1408" height="768" alt="Gemini_Generated_Image_4bdft84bdft84bdf" src="https://github.com/user-attachments/assets/cdbc88cc-d705-47a7-8bff-163332221a74" />
+
 ## Grupo Los Pookies
 - Facundo Dip: https://github.com/facudip86/Entrega_Modulo_1
 - Francisco Allamand: https://github.com/franallamand/francisco-allamand-modulo-1
