@@ -2,7 +2,7 @@
 <img width="1408" height="768" alt="Gemini_Generated_Image_4bdft84bdft84bdf" src="https://github.com/user-attachments/assets/cdbc88cc-d705-47a7-8bff-163332221a74" />
 
 ## Grupo Los Pookies
-- Facundo Dip: 
+- Facundo Dip: https://github.com/facudip86/EntregaModulo_2.git
 - Francisco Allamand: https://github.com/franallamand/Modulo2.git
 - Pedro Elizalde: https://github.com/pedroelizalde05/Modulo2.git
 - Mateo Notti: https://github.com/nottimateo-max/MODULO2.git 
