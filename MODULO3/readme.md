@@ -4,7 +4,7 @@
 ## Grupo Los Pookies
 - Facundo Dip: 
 - Francisco Allamand: 
-- Pedro Elizalde: 
+- Pedro Elizalde: https://github.com/pedroelizalde05/modulo3
 - Mateo Notti: https://github.com/nottimateo-max/MODULO3.git
 
 Nombre y Apellido | Dirección de mail | Número de teléfono |
